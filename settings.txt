@@ -1,0 +1,1 @@
+C:\\Users\\Akshat Tilak\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe,Light,5,30,5,0.2,True,Akshat Tilak,True,True,1000,chats\\,True,True,True,500,1000
