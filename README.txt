@@ -2,7 +2,7 @@ THIS PROJECT WAS SUBMITTED TO WIT+BYLD HACKATHON 2021
 
 ZOOM_BOT
 With online classes going on one of the things that has been irritating for all of us is looking around for zoom links every week for the same classes.
-Well with zoom_bot you can join zoom meetings automatically and by specifying which meet to join and when.
+Well with zoom_bot you can join zoom meetings automatically by specifying which meets to join and when.
 
 Team Members:
 Yogesh Kaushik
